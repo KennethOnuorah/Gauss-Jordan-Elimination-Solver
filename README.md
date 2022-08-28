@@ -15,8 +15,10 @@ These three steps are done repeatedly until the identity matrix has been found. 
 
 Solving for an identity matrix can have three outcomes:
 1. **One solution**
-2. **No solutions**
-3. **Infinite solutions**
+2. **Infinite solutions**
+3. **No solution**
+
+<img src="https://github.com/KennethOnuorah/Gauss-Jordan-Elimination-Solver/blob/main/src/images/img2.png" width="516" height="189"/>
 
 The process of attaining the identity matrix is rather long and tedious to accomplish by hand, so I made this bot that does all the work in a short amount of time.
 
