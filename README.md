@@ -11,7 +11,7 @@ The process of converting a matrix into an identity matrix involves three fundem
 2. Multiplying a row by a nonzero number
 3. Adding a multiple of one row to another
 
-These three steps are done repeatedly until the identity matrix has been found. The three numbers on the rightmost side, as seen in the image above, are called the ***solutions*** to a system of equations. 
+These three steps are done repeatedly until the identity matrix has been found. The three numbers on the rightmost side of the identity matrix, as seen in the above image, are called the ***solutions*** to a system of equations. 
 
 Solving for an identity matrix can have three outcomes:
 1. **One solution**
